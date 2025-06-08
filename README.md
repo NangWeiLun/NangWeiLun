@@ -9,4 +9,5 @@
 - 🤔 I’m looking for help with: Making Gen AI models work well in real-world use and running them efficiently offline.
 - 💬 Ask me about: Python, AI/ML, or open-source projects!
 - 📫 How to reach me: [Email](mailto:nangweilun@outlook.com) | [LinkedIn](https://www.linkedin.com/in/wei-lun-nang-164728186/)
+- 🌐 Personal Website: [https://nangweilun.github.io/](https://nangweilun.github.io/)
 - ⚡ Fun fact: I like exploring new tech and playing gacha games (which I also try to automate with AI!).
